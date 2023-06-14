@@ -3,17 +3,17 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Personal Life"
-    url: /personal/
+  # - title: "Personal Life"
+  #   url: /personal/
 
   # - title: "Portfolio"
   #   url: /portfolio/
