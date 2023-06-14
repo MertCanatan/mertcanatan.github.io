@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am pursuing a Ph.D. degree and working as a Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Florida. I am fortunate to receive guidance from Dr. [Ziynet Boz] (https://ziynetboz.com/) and Dr. [Rafael Muñoz-Carpena] (https://abe.ufl.edu/faculty/carpena/people/RafaelMunozCarpena.shtml).
+Currently, I am pursuing a Ph.D. degree and working as a Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Florida. I am fortunate to receive guidance from Dr. [Ziynet Boz](https://ziynetboz.com/) and Dr. [Rafael Muñoz-Carpena](https://abe.ufl.edu/faculty/carpena/people/RafaelMunozCarpena.shtml).
 
 I completed my Master of Science degree with a specialization in Signal Processing at the Electrical and Computer Engineering Department of the University of Florida (May 2021).
 
@@ -16,7 +16,7 @@ I graduated from Izmir University of Economics with a Bachelor of Science degree
 
 News:
 ======
-(June 2023) I am going to [Digital Twin Consortium 2nd Quarterly Meeting] (https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
+(June 2023) I am going to [Digital Twin Consortium 2nd Quarterly Meeting](https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
 
 <!-- Getting started
 ======
