@@ -12,11 +12,11 @@ Currently, I am pursuing a Ph.D. degree and working as a Graduate Research Assis
 
 I completed my Master of Science degree with a specialization in Signal Processing at the Electrical and Computer Engineering Department of the University of Florida (May 2021).
 
-I graduated from Izmir University of Economics with a Bachelor of Science degree in Electrical and Electronics Engineering (July 2018).
+I graduated from Izmir University of Economics with a Bachelor of Science in Electrical and Electronics Engineering (July 2018).
 
 News:
 ======
-(June 2023) I am going to [Digital Twin Consortium 2nd Quarterly Meeting](https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
+(June 2023) I will attend [Digital Twin Consortium 2nd Quarterly Meeting](https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
 
 <!-- Getting started
 ======
