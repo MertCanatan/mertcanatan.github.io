@@ -21,10 +21,6 @@ Work experience
   * Department of Agricultural and Biological Engineering at the University of Florida
   * Research Interests: Cyber-Food Systems Engineering, Digital Twins, Artificial Intelligence
   * Advisors: [Ziynet Boz](https://ziynetboz.com/) and [Rafael Muñoz-Carpena](https://abe.ufl.edu/faculty/carpena/people/RafaelMunozCarpena.shtml)
-<!-- * Summer 2021: Student OPS Employee
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
   
 Skills
 ======
