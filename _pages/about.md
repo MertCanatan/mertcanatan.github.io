@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am pursuing a Ph.D. degree and working as a Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Florida. I am fortunate to receive guidance from Dr. [Ziynet Boz](https://ziynetboz.com/) and Dr. [Rafael Muñoz-Carpena](https://abe.ufl.edu/faculty/carpena/people/RafaelMunozCarpena.shtml).
+Currently, I am pursuing a Ph.D. degree and working as a Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Florida. I am fortunate to receive guidance from Dr. [Ziynet Boz](https://ziynetboz.com/) and Dr. [Rafael Muñoz-Carpena](https://abe.ufl.edu/faculty/carpena/people/RafaelMunozCarpena.shtml). I am interested in researching and developing digital twin applications that promote sustainability in food systems. My focus is on reducing food loss and waste through increased digitalization, traceability, and transparency across the entire food supply chain.
 
 I completed my Master of Science degree with a specialization in Signal Processing at the Electrical and Computer Engineering Department of the University of Florida (May 2021).
 
