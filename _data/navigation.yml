@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "The Study Break"
-    url: /personal/
+  # - title: "The Study Break"
+  #   url: /personal/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "The Study Break"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
