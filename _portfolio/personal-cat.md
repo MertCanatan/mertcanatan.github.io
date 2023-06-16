@@ -1,12 +1,9 @@
 ---
 title: "Cat Dad"
-excerpt: "Fistik 1<br/><img src='/images/fistik1.JPG'>"
-excerpt: "Mochi 1<br/><img src='/images/mochi1.JPG'>"
-excerpt: "Fistik 2<br/><img src='/images/fistik2.JPG'>"
-excerpt: "Mochi 2<br/><img src='/images/mochi2.JPG'>"
-collection: personal
+excerpt: "Fistik 1<br/><img src='/images/fistikmochi.jpg'>"
+collection: portfolio
 # type: "3 Minute Thesis (3 MT) Competition"
-permalink: /personal/personal-cat
+permalink: /portfolio/personal-cat
 # venue: "University of Florida, Department of Agricultural and Biological Engineering"
 # date: 2021-09-20
 # location: "Gainesville, FL, USA"
