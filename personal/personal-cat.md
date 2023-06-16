@@ -1,10 +1,10 @@
 ---
 title: "Cat Dad"
 collection: personal
-excerpt: "Fistik 1<br/><img src='/images/fistik1.jpg'>"
-excerpt: "Mochi 1<br/><img src='/images/mochi1.jpg'>"
-excerpt: "Fistik 2<br/><img src='/images/fistik2.jpg'>"
-excerpt: "Mochi 2<br/><img src='/images/mochi2.jpg'>"
+excerpt: "Fistik 1<br/><img src='/images/fistik1.JPG'>"
+excerpt: "Mochi 1<br/><img src='/images/mochi1.JPG'>"
+excerpt: "Fistik 2<br/><img src='/images/fistik2.JPG'>"
+excerpt: "Mochi 2<br/><img src='/images/mochi2.JPG'>"
 # type: "3 Minute Thesis (3 MT) Competition"
 permalink: /personal/personal-cat
 # venue: "University of Florida, Department of Agricultural and Biological Engineering"
