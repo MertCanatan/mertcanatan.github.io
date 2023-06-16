@@ -1,6 +1,6 @@
 ---
 title: "Cat Dad"
-excerpt: "Fistik 1<br/><img src='/images/fistikmochi.jpg'>"
+excerpt: "Fistik and Mochi share a close bond and both have a love for boxes. <br/><img src='/images/fistikmochi.jpg'>"
 collection: personal
 # type: "3 Minute Thesis (3 MT) Competition"
 permalink: /personal/personal-cat
