@@ -1,7 +1,7 @@
 ---
 title: "Supervised Teaching for the ABE3212C: Land and Water Resources Engineering Course for the Spring 2023 Semester."
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2023-spring-ST
 venue: "University of Florida, Agricultural and Biological Engineering"
 date: Spring 2023-01-09
