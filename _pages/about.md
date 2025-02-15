@@ -16,7 +16,13 @@ I graduated from Izmir University of Economics with a Bachelor of Science in Ele
 
 News:
 ======
-(June 2023) I will attend [Digital Twin Consortium 2nd Quarterly Meeting](https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
+(December 2024) Our paper "Artificial Intelligence in Food Manufactruing: A Review of Current Work and Future Opportuinities" has been accepted to be published in the [Food Engineering Reviews Journal.](https://link.springer.com/journal/12393)
+
+(December 2024) I'm excited to announce the publication of our research on innovative temperature monitoring techniques for fresh produce storage. Our paper [Continuous surface temperature monitoring of refrigerated fresh produce through visible and thermal infrared sensor fusion](https://www.sciencedirect.com/science/article/abs/pii/S0925521424005994)) has been published in [Postharvest Biology and Technology Journal](https://www.sciencedirect.com/journal/postharvest-biology-and-technology).
+
+(October 2024) I passed my Ph.D. Qualifying Exams on October 1st, 2024.
+
+(June 2023) I presented my research at [Digital Twin Consortium 2nd Quarterly Meeting](https://www.digitaltwinconsortium.org/events/q2-2023/) on June 20-22nd, 2023, in Orlando, Florida.
 
 <!-- Getting started
 ======

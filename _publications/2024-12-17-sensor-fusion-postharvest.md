@@ -1,0 +1,16 @@
+---
+title: "Continuous surface temperature monitoring of refrigerated fresh produce through visible and thermal infrared sensor fusion"
+collection: publications
+permalink: /publication/2024-sensor-fusion-postharvest
+excerpt: 'Development of a non-destructive temperature measurement system using thermal infrared and visible imaging sensors for continuous monitoring of fresh produce.'
+date: 2024-12-17
+venue: 'Postharvest Biology and Technology'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925521424005994?casa_token=w-lOCCYvAtgAAAAA:VCjvSx8qDL6MIhINuNwNwOy3u8ZqCnZDCQliyyKZSN4Hx3wF3j1sUsOknSSjJVn2nR70LfE'
+citation: 'Canatan, M., Muñoz-Carpena, R., & Boz, Z. (2025). Continuous surface temperature monitoring of refrigerated fresh produce through visible and thermal infrared sensor fusion. Postharvest Biology and Technology, 222, 113354.'
+---
+
+Temperature is a critical parameter affecting the safety and quality of food products, with deviations leading to spoilage, food safety issues, and increased food waste, presenting significant economic and sustainability challenges. Conventional temperature sensors such as thermometers, thermistors, and thermocouples are accurate but often invasive, measuring the temperature of proxy media or storage environments rather than individual products. To address this limitation, we developed a non-destructive temperature measurement system using thermal infrared (IR) and visible (RGB) imaging sensors. The system integrates a thermal camera module, an RGB sensor, and a single-board computer, employing homography matrix-based RGB-thermal fusion, real-time object detection, and temperature monitoring to isolate product surface temperatures from the background. The system was validated with thermocouple measurements by monitoring the surface temperature profiles of apples, peppers, and individually packaged broccoli under cold storage conditions. When compared to thermocouple measurements, average root mean square error values were 0.63, 0.81 and 1.86°C for apple, bell pepper, and individually wrapped broccoli, respectively. These results emphasize the importance of further addressing reflective materials and surface emissivity effects to enhance accuracy. This tool demonstrates potential for real-time, individual surface temperature monitoring, providing a practical solution for precision retail and supply chain applications. Future system enhancements are also proposed; including addressing material reflectivity and emissivity, and system calibration methods to improve its accuracy and broaden its applicability across diverse operational scenarios.
+
+[Access paper here](https://www.sciencedirect.com/science/article/pii/S0925521424005994?casa_token=w-lOCCYvAtgAAAAA:VCjvSx8qDL6MIhINuNwNwOy3u8ZqCnZDCQliyyKZSN4Hx3wF3j1sUsOknSSjJVn2nR70LfE)
+
+Recommended citation: Canatan, M., Muñoz-Carpena, R., & Boz, Z. (2025). Continuous surface temperature monitoring of refrigerated fresh produce through visible and thermal infrared sensor fusion. Postharvest Biology and Technology, 222, 113354. 

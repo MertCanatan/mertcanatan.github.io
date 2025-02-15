@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
@@ -15,7 +15,7 @@ main:
   # - title: "The Study Break"
   #   url: /personal/
 
-  - title: "The Study Break"
+  - title: "The Other Hat"
     url: /personal/
         
   # - title: "Blog Posts"
@@ -23,3 +23,4 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+  
