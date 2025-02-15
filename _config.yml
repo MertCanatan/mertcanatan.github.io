@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mert Canatan"
   avatar           : "Profile_pic.png"
-  bio              : "Graduate Research Assistant"
+  bio              : "PhD Candidate/Graduate Research Assistant"
   location         : # "Gainesville, FL, U.S.A."
   employer         : "University of Florida"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MertCanatan"
+  github           : # "MertCanatan"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MertCanatan_"
+  twitter          : # "MertCanatan_"
   vine             :
   weibo            :
   xing             :
