@@ -16,6 +16,8 @@ I graduated from Izmir University of Economics with a Bachelor of Science in Ele
 
 News:
 ======
+(November 2025) I successfully defended my PhD dissertation.
+
 (April 2025) I presented my research on thermal CFD modeling approaches for digital twin implementation in open display refrigeration systems at the University of Florida Agricultural and Biological Engineering (UF ABE) Biocomplexity Seminar Series. [Seminar Series Link](https://abe.ufl.edu/faculty/carpena/seminars/index.shtml)
 
 (December 2024) Our paper "Artificial Intelligence in Food Manufacturing: A Review of Current Work and Future Opportuinities" has been accepted to be published in the [Food Engineering Reviews Journal.](https://link.springer.com/journal/12393)
